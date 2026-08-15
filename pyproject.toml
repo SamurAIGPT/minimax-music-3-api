@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minimax-music-3-api"
+version = "0.1.0"
+authors = [
+  { name="Anil Matcha" },
+]
+description = "Python wrapper for MuAPI's MiniMax Music 3.0 text-to-music API."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "requests",
+    "python-dotenv",
+]
+
+[tool.setuptools]
+py-modules = ["minimax_music_3_api"]
