@@ -15,6 +15,9 @@ A clean, standalone Python SDK for **MiniMax Music 3.0**, delivered via [muapi.a
 - [minimax-music-3-comfyui](https://github.com/Anil-matcha/minimax-music-3-comfyui) — native ComfyUI custom nodes for MiniMax Music 3.0
 - [Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) — Python wrapper for Seedance 2.5 video generation
 - [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) — Python SDK for MiniMax's H3 video model
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — open-source studio for running generative image, video, and audio workflows
+- [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — agent-ready skills for building generative-media pipelines
+- [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — CLI and MCP access to MuAPI generation tasks
 
 ## 🚀 Why Use MiniMax Music 3.0 API?
 
