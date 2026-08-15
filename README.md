@@ -197,8 +197,8 @@ For prompt engineering, lyrics-formatting tips, and a curated song-prompt librar
 ---
 
 ## 🔗 Official Resources
-- **Playground**: [muapi.ai/playground/minimax-music-3-0](https://muapi.ai/playground/minimax-music-3-0?utm_source=github&utm_medium=readme&utm_campaign=minimax-music-3-api)
-- **Model page**: [muapi.ai/minimax-music-3-0](https://muapi.ai/minimax-music-3-0?utm_source=github&utm_medium=readme&utm_campaign=minimax-music-3-api)
+- **Playground**: [muapi.ai/playground/minimax-music-3.0](https://muapi.ai/playground/minimax-music-3.0?utm_source=github&utm_medium=readme&utm_campaign=minimax-music-3-api)
+- **Model page**: [muapi.ai/minimax-music-3.0](https://muapi.ai/minimax-music-3.0?utm_source=github&utm_medium=readme&utm_campaign=minimax-music-3-api)
 - **API Provider**: [MuAPI.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=minimax-music-3-api)
 
 ## 📄 License
