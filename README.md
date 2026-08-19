@@ -18,6 +18,7 @@ A clean, standalone Python SDK for **MiniMax Music 3.0**, delivered via [muapi.a
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — open-source studio for running generative image, video, and audio workflows
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — agent-ready skills for building generative-media pipelines
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — CLI and MCP access to MuAPI generation tasks
+- [suno-api](https://github.com/Anil-matcha/suno-api) — sibling Python SDK for Suno music, audio, and voice workflows
 
 ## 🚀 Why Use MiniMax Music 3.0 API?
 
